@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AzureSpeechToText.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\chuee3\Documents\testing\UE-Azure-Speech-To-Text-Example\Intermediate\Build\Win64\x64\AzureSpeechToTxtEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\chuee3\Documents\testing\UE-Azure-Speech-To-Text-Example\Plugins\AzureSpeechToText\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureSpeechToText\Module.AzureSpeechToText.cpp.obj"
+"C:\Users\chuee3\Documents\testing\UE-Azure-Speech-To-Text-Example\Plugins\AzureSpeechToText\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureSpeechToText\Default.rc2.res"
+/OUT:"C:\Users\chuee3\Documents\testing\UE-Azure-Speech-To-Text-Example\Plugins\AzureSpeechToText\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzureSpeechToText\UnrealEditor-AzureSpeechToText.lib"

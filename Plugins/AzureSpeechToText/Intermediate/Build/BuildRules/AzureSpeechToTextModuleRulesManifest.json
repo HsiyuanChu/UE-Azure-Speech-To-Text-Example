@@ -1,0 +1,6 @@
+{
+	"SourceFiles": [
+		"E:\\AzureSpeechToText_UE\\Azure2\\Plugins\\AzureSpeechToText\\Source\\AzureSpeechToText\\AzureSpeechToText.Build.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
