@@ -15,9 +15,10 @@ In the AzureSpeechToText level, press '1' to start speech recognition and releas
 ## Screenshots
 **Subscribe to RecognizingEvent/RecognizedEvent:**
 
-![image](https://github.com/HsiyuanChu/UE-Azure-Speech-To-Text-Example/assets/137818387/8d632726-6cb8-47c3-81d3-c17f7dc920a2)
+![image](https://github.com/HsiyuanChu/UE-Azure-Speech-To-Text-Example/assets/137818387/223f9feb-c216-4009-9617-c320d2831bb3)
 
-![image](https://github.com/HsiyuanChu/UE-Azure-Speech-To-Text-Example/assets/137818387/322fb014-6a18-429e-a986-fb19cbd6aee3)
+
+![image](https://github.com/HsiyuanChu/UE-Azure-Speech-To-Text-Example/assets/137818387/8992216c-133c-4509-b924-c53795952c72)
 
 
 <br>
@@ -25,7 +26,7 @@ In the AzureSpeechToText level, press '1' to start speech recognition and releas
 
 **Recognition status (blue), recognizing text (white), and recognized text (red) print out**
 
-![image](https://github.com/HsiyuanChu/UE-Azure-Speech-To-Text-Example/assets/137818387/d7d166af-cc78-4d40-910a-f96e72e740c3)
+![image](https://github.com/HsiyuanChu/UE-Azure-Speech-To-Text-Example/assets/137818387/d5d0018e-db31-4f46-9011-a5315c454cfe)
 
 
 
