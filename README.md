@@ -1,7 +1,7 @@
 # UE-Azure-Speech-To-Text-Example
 
 ## Description
-Developed with Unreal Engine 5.3, this project demonstrates integration with [Azure Speech to Text service](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text) using the Vilas-Bôas Plugin (2024), utilizing microphone input.
+Developed with Unreal Engine 5.3, this project demonstrates integration with [Azure Speech to Text service](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text), utilizing microphone input.
 
 ## Instruction
 Clone this repository. Open AzureSpeechToText.umap from the 'Level' folder, or create a new level and add the SpeechToTextManager Actor class to your scene. Once SpeechToTextManager is placed in the scene, you can call the following Blueprint functions:
@@ -30,6 +30,4 @@ In the AzureSpeechToText level, press '1' to start speech recognition and releas
 
 
 
-## Reference:
 
-Vilas-Bôas, L. (2024). UEAzSpeech (Version 1.6.19) [Source code]. GitHub. https://github.com/lucoiso/UEAzSpeech
